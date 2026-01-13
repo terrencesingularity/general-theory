@@ -1,14 +1,19 @@
 General Theory of Nuclear Weapons Corpus
 
-This repository contains ongoing work toward a General Theory of Nuclear Weapons Corpus, building on the Special Theory of Nuclear Weapons Corpus (Nuclear Singularity Theory).
+Abstract
 
-Where the Special Theory establishes the core structural claim — that nuclear weapons now function as a single emergent corpus rather than as discrete weapons — the General Theory develops the full field of consequences and applications that follow from that claim.
+The General Theory of Nuclear Weapons Corpus develops the consequences of the claim established by the Special Theory of Nuclear Weapons Corpus: that nuclear weapons no longer function as discrete artifacts or individually controlled instruments, but as a single, distributed, emergent system operating across states, technologies, doctrines, and time.
+
+Treating nuclear weapons as a corpus rather than as weapons reframes the nuclear condition as an ongoing structural field rather than an episodic event (“nuclear war”). The General Theory examines this field across five dimensions: (I) system dynamics and temporal behavior, including automation, accident, escalation, and irreversibility; (II) epistemology and expertise, addressing how knowledge, authority, and legitimacy change when the system cannot be understood piecemeal; (III) cultural and civilizational consequences, including effects on meaning, religion, myth, generation, and historical self-conception; (IV) instruments and interfaces, exploring experimental modes of engagement such as games, narrative structures, and cognitive practices; and (V) deconstruction and exit conditions, investigating how the nuclear weapons corpus might be rendered inert or exited as a historical condition without presupposing traditional disarmament models.
+
+The General Theory does not revise the Special Theory but extends it, treating the nuclear weapons corpus as a totalizing structure that reshapes expertise, culture, and agency. Its aim is not to offer a policy prescription, but to make visible the structure of the nuclear condition itself, thereby enabling more accurate reasoning by citizens and institutions alike.
 
 Relationship to the Special Theory
 
 The Special Theory of Nuclear Weapons Corpus provides the formal, bounded theoretical foundation.
 
 This repository assumes that foundation as given and does not revise it.
+
 The Special Theory is presented separately as a sealed first-edition statement.
 
 The General Theory begins after the Special Theory.
@@ -23,7 +28,7 @@ How the nuclear weapons corpus behaves as a global system over time, including a
 
 II. Epistemology and Expertise
 
-How knowledge, expertise, legitimacy, and authority change when nuclear weapons operate as a distributed emergent system rather than as discrete artifacts.
+How knowledge, authority, legitimacy, and expertise change when nuclear weapons operate as a distributed emergent system rather than as discrete artifacts.
 
 III. Cultural and Civilizational Consequences
 
@@ -35,7 +40,7 @@ Practical and experimental interfaces with the nuclear condition, including game
 
 V. Deconstruction and Exit Conditions
 
-Explorations of how the nuclear weapons corpus might be deconstructed, rendered inert, or exited as a historical condition — without assuming traditional disarmament models.
+Explorations of how the nuclear weapons corpus might be deconstructed, rendered inert, or exited as a historical condition without presupposing traditional disarmament models.
 
 These sections are analytically distinct but interdependent.
 
@@ -55,7 +60,7 @@ An explanatory book, Singularity of Nuclear Weapons Corpus, is being written to 
 The General Theory informs that work but does not replace the formal theory.
 
 Support for the explanatory work can be found here:
-https://gofund.me/874acde77
+https://gofund.me/557c52466
 
 Authorship
 
